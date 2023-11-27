@@ -1,0 +1,31 @@
+usuario 
+id_usuario
+primer nombre
+segundo nombre
+primer apellido
+segundo apellido  
+celular
+correo
+
+tipo de streaming 
+id_streaming 
+descricion de streming
+valor 
+
+proveedor 
+id de proveedor 
+id_streaming
+valor del producto
+celular 
+correo
+
+ 
+suscripción
+id_usuario 
+id_streaming
+fecha de pago 
+
+
+
+
+
